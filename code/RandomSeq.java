@@ -57,7 +57,7 @@ public class RandomSeq {
             // generate and print n numbers between lo and hi
             for (int i = 0; i < n; i++) {
                 double x = StdRandom.uniform(lo, hi);
-                StdOut.printf("%.3f\n", x);
+                StdOut.printf("%.2f\n", x);
             }
         }
 

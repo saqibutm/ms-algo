@@ -68,7 +68,7 @@ import java.io.*;
 
 public class QuickFindUF {
     private int[] id;    // id[i] = component identifier of i
-    private int count;   // number of components
+    private int count;   // number of connect components
 
     /**
      * Initializes an empty union-find data structure with

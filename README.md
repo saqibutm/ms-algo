@@ -1,6 +1,9 @@
-# ms-algo
+# Analysis of Algorthims
 
-## Lecture: Tuesday 17-11-2020
+### Lecture: Monday 30-11-2020
+## Logrithims
+[Logarithms Explain (Math is Fun)](https://www.mathsisfun.com/algebra/logarithms.html)
+
 ### Euclidean Algorithm
 
 * [GCF](https://www.mathsisfun.com/greatest-common-factor.html)
