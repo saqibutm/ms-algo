@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "ec02bd59a4247399",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf4e918a033c4846",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10-Assignments.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1776c78422678b06",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c287c505003207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b2d6e1e263a73e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cd587430eadf04f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7749b1588080ec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b1dc222eba5cad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c441844ad84181d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10-Assignments.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "10-Assignments.md",
+    "02-Introduction.md",
+    "01-Java.md",
+    "Untitled.md",
+    "Chapter 1 - Introduction.md"
+  ]
+}
