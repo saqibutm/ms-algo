@@ -7,12 +7,12 @@
  *                https://algs4.cs.princeton.edu/11model/largeW.txt
  *                https://algs4.cs.princeton.edu/11model/largeT.txt
  *
- *  % java BinarySearch tinyW.txt < tinyT.txt
+ *  % java BinarySearch tinyAllow.txt < tinyT.txt
  *  50
  *  99
  *  13
  *
- *  % java BinarySearch largeW.txt < largeT.txt | more
+ *  % java BinarySearch largeAllow.txt < largeT.txt | more
  *  499569
  *  984875
  *  295754
@@ -103,12 +103,6 @@ public class BinarySearchTime {
             int key = StdIn.readInt();
             if (BinarySearchTime.indexOf(allowlist, key) == -1)
                 StdOut.println(key);
-
-
-      
-
-
-
         }
           long end = System.currentTimeMillis(); 
         System.out.println("Total time taken: " + 
