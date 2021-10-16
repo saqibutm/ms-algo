@@ -1,7 +1,28 @@
 # Analysis of Algorthims
+Algorithms - Step by step procedure of solving a problem.
+### Difference between Algorithms and Programs
 
-### Lecture: Monday 30-11-2020
-## Logrithims
+#### Design Time – Algorithm 
+1. Written at design time
+2. Any language i.e., English + Mathematical notations
+3. Who – Domain knowledge
+4. Hardware & Software independent
+5. Analyze the algorithm in terms of time and space
+
+#### Implementation Time – Program 
+1. Written at implementation time
+2. Written in a programming language i.e., C++, Java
+3. Who - Programmers 
+4. Hardware & Software independent
+5. Test the program 
+
+### Logrithims
+[Logarithms Explain (Math is Fun)](https://www.mathsisfun.com/algebra/logarithms.html)
+
+### Binary Search Algorithm Time Complexity
+Time Complexity Proof ->  1 + lg(N) is expalined in the [link](https://www.youtube.com/watch?v=TomQQb2kJvc).
+
+
 [Logarithms Explain (Math is Fun)](https://www.mathsisfun.com/algebra/logarithms.html)
 
 ### Euclidean Algorithm
